@@ -39,3 +39,8 @@ allure-results/
 
 # Logs
 *.log
+
+# Issue templates and drafts
+issue_*.md
+*_issue.md
+linkedin_*.md
